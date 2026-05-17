@@ -16,4 +16,4 @@ This repository contains 50 HTML practice programs created during my BCA learnin
 Vikrant Ghule
 
 ## Goal
-To build strong web development fundamentals.
+To build strong web development fundamentals
